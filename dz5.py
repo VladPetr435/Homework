@@ -1,0 +1,3 @@
+import colorama
+
+dir(colorama)
